@@ -21,7 +21,7 @@ cluster_name=dharmatin-app-demo
 127.0.0.1
 
 [service:vars]
-target_group_arn=arn:aws:elasticloadbalancing:ap-southeast-1:538471682716:targetgroup/dharmatin-app-demo/a1e9e92eb03dd59a
+target_group_arn=arn:aws:elasticloadbalancing:ap-southeast-1:538471682716:targetgroup/dharmatin-app-demo/50d5c3635dccbe46
 desired_count=1
 service_name=dharmatin-app-demo
 build_number=13
